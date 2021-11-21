@@ -12,7 +12,7 @@ Each relation should appear once.
 No join of two relations that don't share a common column. So the following graph is invalid:  
 <img src="https://github.com/HOWZZY2000/DP-JOA/blob/master/Readme_Pic/join-tree2.png" width="200" height="200"> 
 ### Left Relation Join 
-In order for the join be evaluated using HashJoin algorithm later, the relation with smaller cardinalities is on the left.
+In order for the join be evaluated using HashJoin algorithm later, the relation with smaller cardinality is on the left.
 So the following graph is invalid:  
 <img src="https://github.com/HOWZZY2000/DP-JOA/blob/master/Readme_Pic/join-tree3.png" width="200" height="200" >
 
