@@ -1,6 +1,6 @@
 ## DP-JOA
 Join optimization is the process of optimizing the joining, or combining, of two or more tables in a database.  
-Here is a join optimization algorithm (JOA) being implemented to find the lowest estimated cost join plan   
+Here is a simple join optimization algorithm (JOA) being implemented to find the lowest estimated cost join plan   
 for a natural chain join query using dynamic programming (DP).
 
 ## Join Constraint
